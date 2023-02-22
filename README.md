@@ -4,6 +4,6 @@ AI-based Digital Twins are at the leading edge of the Industry 4.0 revolution en
 
 ## Experimentation
 
-You can find the use case in the file "data_gen.py", which generates the sinthetic dataset, processes it in a real-time fashion with the river library, and plot the results.
+You can find the use case in the file self-contained "data_gen.py", which generates the sinthetic dataset, processes it in a real-time fashion with the river library, and plot the results. Once installed the required libraries, you just need to run it in order to obtain the plots and conclusions derived from the experimenation.
 
 
